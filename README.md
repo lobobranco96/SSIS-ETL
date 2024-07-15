@@ -9,6 +9,8 @@
 # ENEM SQL SERVER INTEGRATION SERVICE
 ![fluxo_dados_OK](https://github.com/user-attachments/assets/30e3113b-53de-488b-bc72-18cf8837d166)
 ![fluxo_controle_OK](https://github.com/user-attachments/assets/7167a2bc-72d3-4db6-a70c-a0d86b743d28)
+![tabelas](https://github.com/user-attachments/assets/c3282999-9e1a-4278-bf4f-185dbb0ff439)
+![quantidade_linhas](https://github.com/user-attachments/assets/af74d3e6-0b24-4e80-9837-b330fdfb7fd8)
 
 # Modelo Star Schema
 ![STAR_SCHEMA](https://github.com/user-attachments/assets/580ccf5a-412a-4d4e-b230-f04f3e2e60ad)
